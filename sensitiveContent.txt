@@ -1,0 +1,8 @@
+Este archivo va a ser un código
+que nos permita bloquear contenido
+sensible de forma automática.
+
+Se podrá reconocer contenido sensible
+de forma automática, pero también
+la gente podrá reportar estos tipos
+de contenidos.
