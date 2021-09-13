@@ -6,3 +6,5 @@ Se podrá reconocer contenido sensible
 de forma automática, pero también
 la gente podrá reportar estos tipos
 de contenidos.
+
+- cambio - 
